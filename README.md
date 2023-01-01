@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode solutions in C++
 
 ## Easy
 * Two Sum
