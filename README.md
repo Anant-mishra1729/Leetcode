@@ -4,3 +4,4 @@
 * Two Sum
 * Valid Parentheses
 * Word Pattern
+* Detect Capital
