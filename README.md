@@ -5,3 +5,4 @@
 * Valid Parentheses
 * Word Pattern
 * Detect Capital
+* Delete Columns to Make Sorted
