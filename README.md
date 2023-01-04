@@ -6,3 +6,6 @@
 * Word Pattern
 * Detect Capital
 * Delete Columns to Make Sorted
+
+## Medium
+* Minimum Rounds to Complete
