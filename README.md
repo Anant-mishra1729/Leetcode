@@ -9,3 +9,4 @@
 
 ## Medium
 * Minimum Rounds to Complete
+* Minimum Number of Arrows to Burst Balloons
